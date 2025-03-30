@@ -45,5 +45,5 @@
 ###
 
 <br clear="both">
+<img alt="github-snake" src="https://raw.githubusercontent.com/nilo2811/nilo2811/output/snake.svg" alt="Snake animation" />
 
-<img src="https://raw.githubusercontent.com/nilo2811/nilo2811/output/snake.svg" alt="Snake animation" />
